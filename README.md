@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theoneandonlySyth75
-- 👀 I’m interested in Csharp things
+- 👀 I’m interested in Csharp stuff
 - 🌱 I’m currently learning Csharp
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me discord: https://discord.gg/dkgb32xXRe
